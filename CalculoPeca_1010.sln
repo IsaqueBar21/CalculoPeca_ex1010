@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoPeca_1010", "CalculoPeca_1010\CalculoPeca_1010.csproj", "{D7C0585A-EA24-45CC-9FDB-4B712CE5D73D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C0585A-EA24-45CC-9FDB-4B712CE5D73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C0585A-EA24-45CC-9FDB-4B712CE5D73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C0585A-EA24-45CC-9FDB-4B712CE5D73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C0585A-EA24-45CC-9FDB-4B712CE5D73D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C34E96A-73AE-4C46-9DBD-B44025312870}
+	EndGlobalSection
+EndGlobal
